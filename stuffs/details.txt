@@ -46,7 +46,7 @@ A centralized solution designed to **identify, classify, and report workplace sa
 1. PPE Compliance
    Datasets:
    [https://www.kaggle.com/datasets/mugheesahmad/sh17-dataset-for-ppe-detection](https://www.kaggle.com/datasets/mugheesahmad/sh17-dataset-for-ppe-detection)
-   [https://www.kaggle.com/datasets/shlokraval/ppe-dataset-yolov8](https://www.kaggle.com/datasets/shlokraval/ppe-dataset-yolov8)
+*  [https://www.kaggle.com/datasets/shlokraval/ppe-dataset-yolov8](https://www.kaggle.com/datasets/shlokraval/ppe-dataset-yolov8) 
    [https://universe.roboflow.com/siabar/ppe-dataset-for-workplace-safety](https://universe.roboflow.com/siabar/ppe-dataset-for-workplace-safety)
    [https://data.mendeley.com/datasets/zkzghjvpn2/5](https://data.mendeley.com/datasets/zkzghjvpn2/5)
 
