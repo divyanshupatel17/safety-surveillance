@@ -1,0 +1,106 @@
+Related Project
+https://github.com/snehilsanyal/Construction-Site-Safety-PPE-Detection
+
+Dataset
+https://www.kaggle.com/datasets/mugheesahmad/sh17-dataset-for-ppe-detection?select=images
+https://www.kaggle.com/datasets/shlokraval/ppe-dataset-yolov8
+https://universe.roboflow.com/siabar/ppe-dataset-for-workplace-safety/dataset/2/images?split=test
+https://data.mendeley.com/datasets/zkzghjvpn2/5
+https://github.com/gaia-solutions-on-demand/DFireDataset
+
+## SURVEILLANCE AND MONITORING SYSTEMS
+
+A centralized solution designed to **identify, classify, and report workplace safety violations** using video surveillance data. The system continuously analyzes surveillance feeds to ensure compliance with predefined safety standards. The key violation categories monitored by the system are as follows:
+
+1. **PPE Compliance**
+   Ensures that all personnel are wearing appropriate Personal Protective Equipment (PPE), such as helmets, gloves, goggles, and safety shoes, in accordance with task-specific safety requirements.
+
+2. **Work at Height Safety**
+   Monitors activities performed at elevated locations to ensure the use of certified fall protection systems, secure ladders or scaffolding, and adherence to permit-to-work procedures.
+
+3. **Hot Work and Welding Safety**
+   Detects unsafe hot work practices by verifying the presence of valid work permits, fire watch personnel, proper shielding, and the use of flame-resistant PPE during welding or cutting operations.
+
+4. **Machine Safety**
+   Ensures that machinery is operated safely by monitoring the presence of machine guards, adherence to lockout/tagout procedures, and compliance with regular equipment inspection protocols.
+
+5. **Pedestrian Safety**
+   Identifies unsafe pedestrian behavior by enforcing designated walkways, detecting unauthorized entry into restricted zones, and monitoring proximity to moving machinery or vehicles.
+
+6. **Vehicle and Material Handling Safety**
+   Monitors the safe operation of vehicles and material handling equipment by ensuring trained operators, adherence to speed limits, proper load securing, and the use of spotters in congested work areas.
+
+7. **Housekeeping and Site Cleanliness**
+   Evaluates workplace housekeeping standards by detecting obstructions, unmanaged waste, and cluttered work areas that may lead to slips, trips, or falls.
+
+8. **Fire and Emergency Safety**
+   Detects fire-related hazards and emergency preparedness issues by monitoring fire and smoke incidents, ensuring the availability of fire extinguishers, verifying clear evacuation routes, and confirming the display of emergency contact information.
+
+9. **Access Control and Restricted Area Monitoring**
+   Controls entry into high-risk or restricted zones by monitoring unauthorized access, verifying identification where applicable, and ensuring only authorized personnel are present.
+
+10. **Behavioural Safety**
+    Promotes a proactive safety culture by identifying unsafe behaviors, tracking repeated violations, and supporting training, observation, and positive reinforcement to encourage compliance.
+
+
+1. PPE Compliance
+   Datasets:
+   [https://www.kaggle.com/datasets/mugheesahmad/sh17-dataset-for-ppe-detection](https://www.kaggle.com/datasets/mugheesahmad/sh17-dataset-for-ppe-detection)
+   [https://www.kaggle.com/datasets/shlokraval/ppe-dataset-yolov8](https://www.kaggle.com/datasets/shlokraval/ppe-dataset-yolov8)
+   [https://universe.roboflow.com/siabar/ppe-dataset-for-workplace-safety](https://universe.roboflow.com/siabar/ppe-dataset-for-workplace-safety)
+   [https://data.mendeley.com/datasets/zkzghjvpn2/5](https://data.mendeley.com/datasets/zkzghjvpn2/5)
+
+2. Work at Height Safety
+   Datasets:
+   [https://universe.roboflow.com/search?q=ladder](https://universe.roboflow.com/search?q=ladder)
+   [https://cocodataset.org](https://cocodataset.org)
+
+3. Hot Work and Welding Safety
+   Datasets:
+   [https://github.com/gaia-solutions-on-demand/DFireDataset](https://github.com/gaia-solutions-on-demand/DFireDataset)
+   [https://www.kaggle.com/datasets/dataclusterlabs/fire-and-smoke-dataset](https://www.kaggle.com/datasets/dataclusterlabs/fire-and-smoke-dataset)
+   [https://universe.roboflow.com/middle-east-tech-university/fire-and-smoke-detection-hiwia](https://universe.roboflow.com/middle-east-tech-university/fire-and-smoke-detection-hiwia)
+
+4. Machine Safety
+   Datasets:
+   [https://storage.googleapis.com/openimages/web/index.html](https://storage.googleapis.com/openimages/web/index.html)
+   [https://www.kaggle.com/datasets/sohier/forklift-dataset](https://www.kaggle.com/datasets/sohier/forklift-dataset)
+   [https://universe.roboflow.com/search?q=industrial+machine](https://universe.roboflow.com/search?q=industrial+machine)
+
+5. Pedestrian Safety
+   Datasets:
+   [http://www.vision.caltech.edu/html-files/archive.html](http://www.vision.caltech.edu/html-files/archive.html)
+   [https://data.vision.ee.ethz.ch/cvg/ethz-datasets/readyset/data/](https://data.vision.ee.ethz.ch/cvg/ethz-datasets/readyset/data/)
+   [https://www.cityscapes-dataset.com](https://www.cityscapes-dataset.com)
+   [https://cocodataset.org](https://cocodataset.org)
+
+6. Vehicle and Material Handling Safety
+   Datasets:
+   [https://cocodataset.org](https://cocodataset.org)
+   [https://detrac-db.rit.albany.edu](https://detrac-db.rit.albany.edu)
+   [https://www.aicitychallenge.org](https://www.aicitychallenge.org)
+   [https://www.kaggle.com/datasets/sohier/forklift-dataset](https://www.kaggle.com/datasets/sohier/forklift-dataset)
+
+7. Housekeeping and Site Cleanliness
+   Datasets:
+   [https://www.crcv.ucf.edu/data/UCF-Crime/](https://www.crcv.ucf.edu/data/UCF-Crime/)
+
+8. Fire and Emergency Safety
+   Datasets:
+   [https://github.com/gaia-solutions-on-demand/DFireDataset](https://github.com/gaia-solutions-on-demand/DFireDataset)
+   [https://www.kaggle.com/datasets/dataclusterlabs/fire-and-smoke-dataset](https://www.kaggle.com/datasets/dataclusterlabs/fire-and-smoke-dataset)
+   [https://universe.roboflow.com/middle-east-tech-university/fire-and-smoke-detection-hiwia](https://universe.roboflow.com/middle-east-tech-university/fire-and-smoke-detection-hiwia)
+   [https://mivia.unisa.it/datasets/video-analysis-datasets/fire-detection-dataset/](https://mivia.unisa.it/datasets/video-analysis-datasets/fire-detection-dataset/)
+
+9. Access Control and Restricted Area Monitoring
+   Datasets:
+   [https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/](https://www.robots.ox.ac.uk/~vgg/data/vgg_face2/)
+   [https://github.com/liyuxuan2015/CASIA-WebFace](https://github.com/liyuxuan2015/CASIA-WebFace)
+
+10. Behavioural Safety
+    Datasets:
+    [https://cocodataset.org](https://cocodataset.org)
+    [http://serre-lab.clps.brown.edu/resource/hmdb51/](http://serre-lab.clps.brown.edu/resource/hmdb51/)
+    [https://www.crcv.ucf.edu/data/UCF101.php](https://www.crcv.ucf.edu/data/UCF101.php)
+    [https://www.crcv.ucf.edu/data/UCF-Crime/](https://www.crcv.ucf.edu/data/UCF-Crime/)
+
