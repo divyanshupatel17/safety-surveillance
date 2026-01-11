@@ -1,0 +1,34 @@
+safety-surveillance/
+│
+├── notebooks/
+│   ├── 01_ppe_detection.ipynb
+│   ├── 02_fire_smoke.ipynb
+│   ├── 03_pedestrian_vehicle.ipynb
+│   ├── 04_work_at_height.ipynb
+│   ├── 05_behavioral_safety.ipynb
+│   └── 06_final_pipeline.ipynb
+│
+├── datasets/
+│   ├── ppe/
+│   ├── fire_smoke/
+│   ├── pedestrian/
+│   ├── vehicle/
+│   └── behavior/
+│
+├── models/
+│   ├── ppe/
+│   ├── fire_smoke/
+│   ├── pedestrian/
+│   └── vehicle/
+│
+├── videos/
+│   ├── test_videos/
+│   └── demo_clips/
+│
+├── results/
+│   ├── images/
+│   ├── videos/
+│   └── metrics/
+│
+└── README.md
+
